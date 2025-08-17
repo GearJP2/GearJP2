@@ -12,5 +12,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gearjp2" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" height="175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gearjp2&layout=donut" height="170">
 </p>
