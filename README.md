@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rojsak KRITSUTHIKUL (Gear)</h1>
+<h1 align="center">Hi 👋, I'm Gear</h1>
 <h3 align="center">CS Student @ Thammasat | Exploring NLP, C Programming & Algorithms</h3>
 
 - 📫 How to reach me **rojsak.kritsuthikul@gmail.com**
