@@ -8,7 +8,7 @@
 
 <h2 align="left">About me</h2>
 
-### stat
+###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gearjp2&theme=tokyonight" height="170">
