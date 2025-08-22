@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gearjp2&theme=tokyonight" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gearjp2&layout=donut&theme=tokyonight" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gearjp2&theme=tokyonight"  height="195"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gearjp2&theme=tokyonight"  height="194"/>
 </p>
 
 ###
