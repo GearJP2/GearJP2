@@ -11,9 +11,9 @@
 ### stat
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gearjp2" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gearjp2&layout=donut" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phudit-2547&theme=tokyonight"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gearjp2&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gearjp2&layout=donut&theme=tokyonight" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gearjp2&theme=tokyonight"  height="170"/>
 </p>
 
 ###
