@@ -18,7 +18,7 @@ I am a Computer Science student and active researcher blending deep learning, na
 *   🔬 **Research:** Currently an Undergraduate Student Researcher at **TONKIT Lab**, with prior research experience at **NECTEC**.
 *   🧠 **Core Expertise:** Deep Learning, Natural Language Processing (NLP), Edge Computing, and Systems Programming.
 *   🏆 **Recent Wins:** NTU Hackathon Finalist in Singapore (May 2026) and Silver Medalist at Indonesia Inventors Day (2024).
-*   🤝 **Community:** Student instructor for the POSN (Computer Olympics) program in high school.
+*   🤝 **Community:** Student instructor for the POSN (Computer Olympics) program in Thailand.
 
 ---
 
@@ -39,7 +39,7 @@ I am a Computer Science student and active researcher blending deep learning, na
     *   A diagnostic risk assessment system utilizing Fourier Transforms to convert heart sound signals into spectrograms, analyzing them via a Convolutional Neural Network (CNN) to detect abnormalities like Murmurs and Extrasystole. Awarded a **Silver Medal** at Indonesia Inventors Day (IID 2024) in Bali.
 *   **AI Cervical Cancer Cell Screening**
     *   Developed and deployed an AI-based binary classification model for automated cervical cell health screening during the PRAGMA Hackathon.
-*   **Volzheimer** 
+*   **Volzheimer**
     *   An audio screening system leveraging optimized digital signal processing and deep learning pipelines to detect early signs of cognitive impairment through spoken voice patterns.
 
 ---
@@ -55,18 +55,22 @@ I am a Computer Science student and active researcher blending deep learning, na
 
 ## 🛠️ Tech Stack & Tooling
 
-### Programming Languages
+### Programming Languages & Embedded Systems
 <div>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="35" alt="C"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="35" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="35" alt="Arduino"/>
 </div>
 
-### AI, ML & NLP
+### AI, NLP & Signal Processing
 <div>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="35" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" alt="SciKit Learn"/>
+  <img src="https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white" height="35" alt="SciPy"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" height="35" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="35" alt="Pandas"/>
   <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" height="35" alt="FastAPI"/>
 </div>
 
@@ -78,7 +82,7 @@ I am a Computer Science student and active researcher blending deep learning, na
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="35" alt="Nginx"/>
 </div>
 
-### Web & Databases
+### Web Frameworks & Databases
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" height="35" alt="Django"/>
