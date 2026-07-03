@@ -89,7 +89,3 @@ I am a Computer Science student and active researcher blending deep learning, na
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" height="35" alt="Angular"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="35" alt="HTML5"/>
 </div>
-
----
-
-<p align="center"><i>"The best way to predict the future is to compile it."</i></p>
