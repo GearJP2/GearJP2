@@ -3,8 +3,9 @@
 <h3 align="center">Undergraduate Student Researcher @ TONKIT Lab | CS Student @ Thammasat University</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gearjp2&theme=tokyonight" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gearjp2&layout=donut&theme=tokyonight" height="170" alt="Top Languages">
+  <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=gearjp2&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats-mu-brown-95.vercel.app/api/top-langs/?username=gearjp2&layout=compact&theme=tokyonight&include_forks=true&count_private=true&hide=html,css,dockerfile,shell,c%2B%2B,cython&langs_count=7&count_weight=0.95&size_weight=0.05&cache_seconds=86400&card_width=350" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=gearjp2&theme=dark&hide_border=false&cache_seconds=86400" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gearjp2&theme=tokyonight" height="193" alt="Profile Details"/>
   <img src="https://streak-stats.demolab.com/?user=GearJP2&theme=tokyonight" alt="GitHub Streak" />
 </p>
