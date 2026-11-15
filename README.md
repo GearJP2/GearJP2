@@ -1,12 +1,9 @@
-<p align="center"><img src="assets/profile-banner.svg" width="100%" alt="Gear — Curious mind. Hands-on builder. Research and engineering at TONKIT Lab, Thammasat University."/></p>
-
-<p align="center"><a href="#selected-work">Selected work</a> &nbsp; / &nbsp; <a href="#research">Research</a> &nbsp; / &nbsp; <a href="#toolbox">Toolbox</a></p>
+# Hi, I’m Gear 👋
 
 <p align="center">
   <img src="https://github-readme-stats-mu-brown-95.vercel.app/api?username=gearjp2&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&cache_seconds=86400" height="165" alt="Gear's GitHub statistics"/>
   <img src="https://streak-stats.demolab.com/?user=GearJP2&theme=transparent&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
-
 
 I'm **Rojsak Kritsuthikul (Gear)**, a CS undergraduate at **Thammasat University** (GPA 3.85). I build research software for applied AI, video retrieval, and LLM infrastructure.
 
@@ -16,11 +13,10 @@ I'm **Rojsak Kritsuthikul (Gear)**, a CS undergraduate at **Thammasat University
 
 ## Selected work
 
-<p><a href="https://github.com/GearJP2/CENTRA10"><img src="assets/project-centra10.svg" width="49%" alt="CENTRA10: What autoscaling signals miss. 48 runs. Four modes. Four workloads. Reproducible evidence for LLM serving."/></a>
-<a href="https://github.com/GearJP2/NTCIR_19_Proceedings_LLFL26"><img src="assets/project-castle.svg" width="49%" alt="CASTLE / NTCIR-19: Find the moment. Not just the video. Video embeddings, transcripts, and VLM reranking. Accepted · Upcoming presentation at NII, Tokyo."/></a></p>
-
-<p><a href="https://github.com/GearJP2/agriscan-pro"><img src="assets/project-agriscan.svg" width="49%" alt="AgriScan Pro: Better data. Better sampling decisions. Sample workflows, contamination analytics, and ML-assisted priorities for researchers."/></a>
-<img src="assets/project-cstu.svg" width="49%" alt="CSTU Academic Portal: From course ideas to reviewed artifacts. AI-assisted specifications and document exports. Related team prototype: 3rd, CSTUSparkCamp."/></p>
+- **[CENTRA10](https://github.com/GearJP2/CENTRA10)** — A 48-run study of LLM autoscaling, latency, SLO attainment, and GPU allocation, with reproducible evidence.
+- **[CASTLE / NTCIR-19](https://github.com/GearJP2/NTCIR_19_Proceedings_LLFL26)** — Semantic video retrieval using embeddings, transcripts, and vision-language reranking. Accepted; presenting at NII, Tokyo.
+- **[AgriScan Pro](https://github.com/GearJP2/agriscan-pro)** — Agricultural sample management, contamination analytics, and ML-assisted sampling priorities.
+- **CSTU Academic Portal** — AI-assisted course specifications and document exports. Related team prototype won 3rd Place at CSTUSparkCamp.
 
 **Also built & explored**
 
@@ -53,17 +49,7 @@ Presented existing research on migrating deep learning workloads across Kubernet
 
 ## Toolbox
 
-<p><img src="assets/toolbox-languages.svg" width="100%" alt="Languages & hardware: Python, TypeScript, JavaScript, C, C++, Java, Go, Bash, HTML5, Swift, Arduino, Raspberry Pi, AutoHotkey"/></p>
-
-<p><img src="assets/toolbox-ai.svg" width="100%" alt="AI & retrieval: PyTorch, scikit-learn, YOLOv8/v10, OpenCLIP, VLM2Vec, BGE-M3, vLLM, NumPy, pandas, SciPy, Milvus"/></p>
-
-<p><img src="assets/toolbox-web.svg" width="100%" alt="Web & data: React, Django REST Framework, FastAPI, PostgreSQL, Redis, Vite, SQLite, Celery, SQLModel, Microsoft Office Add-ins"/></p>
-
-<p><img src="assets/toolbox-infra.svg" width="100%" alt="Infrastructure & delivery: AWS, Docker, Kubernetes, Linux, GitHub Actions, Amazon EC2, Amazon EKS, Amazon S3, Amazon CloudFront, AWS Systems Manager, Git, Docker Compose, Slurm, FFmpeg, pytest"/></p>
-
-
-<sub>Specialist tools without a verified logo use labeled monograms.</sub>
-
----
-
-<p align="center"><sub>Built with curiosity. Backed by evidence.</sub></p>
+**Languages:** Python · TypeScript · C/C++<br/>
+**AI & retrieval:** PyTorch · scikit-learn · vLLM · Milvus<br/>
+**Web & data:** React · Django REST Framework · FastAPI · PostgreSQL<br/>
+**Infrastructure:** Docker · Kubernetes · AWS
