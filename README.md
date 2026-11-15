@@ -71,19 +71,15 @@ Presented existing research on migrating deep learning workloads across Kubernet
 
 ## Toolbox
 
-<table>
-<tr>
-<td align="center" width="140"><img src="assets/skills/python.svg" width="44" height="44" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="140"><img src="assets/skills/typescript.svg" width="44" height="44" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-<td align="center" width="140"><img src="assets/skills/pytorch.svg" width="44" height="44" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
-<td align="center" width="140"><img src="assets/skills/vllm.svg" width="44" height="44" alt="vLLM"/><br/><sub>vLLM</sub></td>
-<td align="center" width="140"><img src="assets/skills/react.svg" width="44" height="44" alt="React"/><br/><sub>React</sub></td>
-</tr>
-<tr>
-<td align="center" width="140"><img src="assets/skills/django-rest-framework.svg" width="44" height="44" alt="Django REST"/><br/><sub>Django REST</sub></td>
-<td align="center" width="140"><img src="assets/skills/fastapi.svg" width="44" height="44" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-<td align="center" width="140"><img src="assets/skills/postgresql.svg" width="44" height="44" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
-<td align="center" width="140"><img src="assets/skills/docker.svg" width="44" height="44" alt="Docker"/><br/><sub>Docker</sub></td>
-<td align="center" width="140"><img src="assets/skills/aws.svg" width="44" height="44" alt="AWS"/><br/><sub>AWS</sub></td>
-</tr>
-</table>
+<p>
+  <img src="assets/skills/python.svg" width="32" height="32" alt="Python"/> Python &nbsp;
+  <img src="assets/skills/typescript.svg" width="32" height="32" alt="TypeScript"/> TypeScript &nbsp;
+  <img src="assets/skills/pytorch.svg" width="32" height="32" alt="PyTorch"/> PyTorch &nbsp;
+  <img src="assets/skills/vllm.svg" width="32" height="32" alt="vLLM"/> vLLM &nbsp;
+  <img src="assets/skills/react.svg" width="32" height="32" alt="React"/> React &nbsp;
+  <img src="assets/skills/django-rest-framework.svg" width="32" height="32" alt="Django REST"/> Django REST &nbsp;
+  <img src="assets/skills/fastapi.svg" width="32" height="32" alt="FastAPI"/> FastAPI &nbsp;
+  <img src="assets/skills/postgresql.svg" width="32" height="32" alt="PostgreSQL"/> PostgreSQL &nbsp;
+  <img src="assets/skills/docker.svg" width="32" height="32" alt="Docker"/> Docker &nbsp;
+  <img src="assets/skills/aws.svg" width="32" height="32" alt="AWS"/> AWS
+</p>
