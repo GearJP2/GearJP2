@@ -11,12 +11,34 @@ I'm **Rojsak Kritsuthikul (Gear)**, a CS undergraduate at **Thammasat University
 **Previously** · NECTEC research intern · Apr–May 2024<br/>
 **Community** · Teaching mathematics and programming for Computer Olympiad preparation
 
-## Selected work
+## Selected projects
 
-- **[CENTRA10](https://github.com/GearJP2/CENTRA10)** — A 48-run study of LLM autoscaling, latency, SLO attainment, and GPU allocation, with reproducible evidence.
-- **[CASTLE / NTCIR-19](https://github.com/GearJP2/NTCIR_19_Proceedings_LLFL26)** — Semantic video retrieval using embeddings, transcripts, and vision-language reranking. Accepted; presenting at NII, Tokyo.
-- **[AgriScan Pro](https://github.com/GearJP2/agriscan-pro)** — Agricultural sample management, contamination analytics, and ML-assisted sampling priorities.
-- **CSTU Academic Portal** — AI-assisted course specifications and document exports. Related team prototype won 3rd Place at CSTUSparkCamp.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/GearJP2/CENTRA10">CENTRA10</a></h3>
+<p>A 48-run study of LLM autoscaling, latency, SLO attainment, and GPU allocation, with reproducible evidence.</p>
+<sub>LLM serving · Systems research</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/GearJP2/NTCIR_19_Proceedings_LLFL26">CASTLE / NTCIR-19</a></h3>
+<p>Semantic video retrieval using embeddings, transcripts, and vision-language reranking. Accepted; presenting at NII, Tokyo.</p>
+<sub>Multimodal retrieval · Research</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/GearJP2/agriscan-pro">AgriScan Pro</a></h3>
+<p>Agricultural sample management, contamination analytics, and ML-assisted sampling priorities.</p>
+<sub>Full-stack development · Applied ML</sub>
+</td>
+<td width="50%" valign="top">
+<h3>CSTU Academic Portal</h3>
+<p>AI-assisted course specifications and document exports. Related team prototype won 3rd Place at CSTUSparkCamp.</p>
+<sub>AI workflows · Education</sub>
+</td>
+</tr>
+</table>
 
 **Also built & explored**
 
@@ -49,7 +71,19 @@ Presented existing research on migrating deep learning workloads across Kubernet
 
 ## Toolbox
 
-**Languages:** Python · TypeScript · C/C++<br/>
-**AI & retrieval:** PyTorch · scikit-learn · vLLM · Milvus<br/>
-**Web & data:** React · Django REST Framework · FastAPI · PostgreSQL<br/>
-**Infrastructure:** Docker · Kubernetes · AWS
+<table>
+<tr>
+<td align="center" width="140"><img src="assets/skills/python.svg" width="44" height="44" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="140"><img src="assets/skills/typescript.svg" width="44" height="44" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+<td align="center" width="140"><img src="assets/skills/pytorch.svg" width="44" height="44" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+<td align="center" width="140"><img src="assets/skills/vllm.svg" width="44" height="44" alt="vLLM"/><br/><sub>vLLM</sub></td>
+<td align="center" width="140"><img src="assets/skills/react.svg" width="44" height="44" alt="React"/><br/><sub>React</sub></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/skills/django-rest-framework.svg" width="44" height="44" alt="Django REST"/><br/><sub>Django REST</sub></td>
+<td align="center" width="140"><img src="assets/skills/fastapi.svg" width="44" height="44" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+<td align="center" width="140"><img src="assets/skills/postgresql.svg" width="44" height="44" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+<td align="center" width="140"><img src="assets/skills/docker.svg" width="44" height="44" alt="Docker"/><br/><sub>Docker</sub></td>
+<td align="center" width="140"><img src="assets/skills/aws.svg" width="44" height="44" alt="AWS"/><br/><sub>AWS</sub></td>
+</tr>
+</table>
