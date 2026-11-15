@@ -71,15 +71,18 @@ Presented existing research on migrating deep learning workloads across Kubernet
 
 ## Toolbox
 
-<p>
-  <img src="assets/skills/python.svg" width="32" height="32" alt="Python"/> Python &nbsp;
-  <img src="assets/skills/typescript.svg" width="32" height="32" alt="TypeScript"/> TypeScript &nbsp;
-  <img src="assets/skills/pytorch.svg" width="32" height="32" alt="PyTorch"/> PyTorch &nbsp;
-  <img src="assets/skills/vllm.svg" width="32" height="32" alt="vLLM"/> vLLM &nbsp;
-  <img src="assets/skills/react.svg" width="32" height="32" alt="React"/> React &nbsp;
-  <img src="assets/skills/django-rest-framework.svg" width="32" height="32" alt="Django REST"/> Django REST &nbsp;
-  <img src="assets/skills/fastapi.svg" width="32" height="32" alt="FastAPI"/> FastAPI &nbsp;
-  <img src="assets/skills/postgresql.svg" width="32" height="32" alt="PostgreSQL"/> PostgreSQL &nbsp;
-  <img src="assets/skills/docker.svg" width="32" height="32" alt="Docker"/> Docker &nbsp;
-  <img src="assets/skills/aws.svg" width="32" height="32" alt="AWS"/> AWS
+<p align="center">
+  <img src="assets/toolbox/python.svg" width="96" height="84" alt="Python"/>
+  <img src="assets/toolbox/typescript.svg" width="96" height="84" alt="TypeScript"/>
+  <img src="assets/toolbox/pytorch.svg" width="96" height="84" alt="PyTorch"/>
+  <img src="assets/toolbox/vllm.svg" width="96" height="84" alt="vLLM"/>
+  <img src="assets/toolbox/react.svg" width="96" height="84" alt="React"/>
+</p>
+
+<p align="center">
+  <img src="assets/toolbox/django-rest-framework.svg" width="96" height="84" alt="Django REST"/>
+  <img src="assets/toolbox/fastapi.svg" width="96" height="84" alt="FastAPI"/>
+  <img src="assets/toolbox/postgresql.svg" width="96" height="84" alt="PostgreSQL"/>
+  <img src="assets/toolbox/docker.svg" width="96" height="84" alt="Docker"/>
+  <img src="assets/toolbox/aws.svg" width="96" height="84" alt="AWS"/>
 </p>
